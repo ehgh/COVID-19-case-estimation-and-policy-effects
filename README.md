@@ -8,7 +8,7 @@ This repository provides a reference implementation of methodology and the data 
 
 This code, provides tools to predict the effect of various Non-Pharmaceutical Interventions (NPI) by estimating the daily number of infected cases of a disease. The data provided is for COVID-19 in Germany for the duration of Feb 18, 2020 to May 7, 2020.
 
-For inqueries contact Ehsan Gholami (contact: egholami@ucdavis.edu).
+For inqueries please contact Ehsan Gholami (contact: egholami@ucdavis.edu).
 
 ## Abstract
 
