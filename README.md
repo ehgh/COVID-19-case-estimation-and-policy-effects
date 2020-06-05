@@ -16,7 +16,7 @@ To contain the COVID-19 pandemic, several governments introduced strict Non-Phar
 
 ## Basic Usage
 
-To estimate the daily cases execute:  
+To estimate the daily cases, in directory `Daily Case Prediciton` execute:  
 
 `python3 predict.py`
     
