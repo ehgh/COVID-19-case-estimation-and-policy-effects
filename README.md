@@ -19,6 +19,8 @@ To contain the COVID-19 pandemic, several governments introduced strict Non-Phar
 To estimate the daily cases, in directory `Daily Case Prediciton` execute:  
 
 `python3 predict.py`
+
+To predict various scenarios daily cases, replace `social_distancing.py` and transportation files with corresponding files for desired scenario and run same command.
     
 The output will be both printed on screen and saved to directory `output`
 
