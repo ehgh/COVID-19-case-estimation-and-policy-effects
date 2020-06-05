@@ -17,7 +17,8 @@ To contain the COVID-19 pandemic, several governments introduced strict Non-Phar
 ## Basic Usage
 
 To estimate the daily cases execute:  
-    `python3 predict.py`
+
+`python3 predict.py`
     
 The output will be both printed on screen and saved to directory `output`
 
