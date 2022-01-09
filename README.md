@@ -28,4 +28,4 @@ The output will be both printed on screen and saved to directory `output`
 
 If you find this code/data useful for your research, please consider citing the following paper:
 
-https://www.medrxiv.org/content/10.1101/2020.05.28.20115980v1
+https://www.nature.com/articles/s41598-020-76244-6
