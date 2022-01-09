@@ -2,13 +2,19 @@
 
 This repository provides a reference implementation of methodology and the data of following paper:
 
-> Restarting after COVID-19: A Data-driven Evaluation of Opening Scenarios  
+> Preparing for a future COVID-19 wave: insights and limitations from a data-driven evaluation of non-pharmaceutical interventions in Germany
 > Ashwin Aravindakshan, Jörn Boehnke, Ehsan Gholami, Ashutosh Nayak  
 > 2020
 
 This code, provides tools to predict the effect of various Non-Pharmaceutical Interventions (NPI) by estimating the daily number of infected cases of a disease. The data provided is for COVID-19 in Germany for the duration of Feb 18, 2020 to May 7, 2020.
 
 For inqueries please contact Ehsan Gholami (contact: egholami@ucdavis.edu).
+
+## Citing
+
+If you find this code/data useful for your research, please consider citing the following paper:
+
+https://www.nature.com/articles/s41598-020-76244-6
 
 ## Abstract
 
@@ -23,9 +29,3 @@ To estimate the daily cases, in directory `Daily Case Prediciton` execute:
 To predict various scenarios daily cases, replace `social_distancing.py` and transportation files with corresponding files for desired scenario and run same command.
     
 The output will be both printed on screen and saved to directory `output`
-
-## Citing
-
-If you find this code/data useful for your research, please consider citing the following paper:
-
-https://www.nature.com/articles/s41598-020-76244-6
