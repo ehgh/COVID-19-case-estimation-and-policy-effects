@@ -1,4 +1,4 @@
-# COVID-19 case estimation and policy effects
+# COVID-19 case estimation under non-pharmaceutical policies (e.g., social distancing)
 
 This repository provides a reference implementation of methodology and the data of following paper:
 
