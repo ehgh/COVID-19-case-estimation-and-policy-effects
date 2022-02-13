@@ -4,7 +4,7 @@ This repository provides a reference implementation of methodology and the data 
 
 > Preparing for a future COVID-19 wave: insights and limitations from a data-driven evaluation of non-pharmaceutical interventions in Germany
 > Ashwin Aravindakshan, Jörn Boehnke, Ehsan Gholami, Ashutosh Nayak  
-> 2020
+> 2020. See https://www.nature.com/articles/s41598-020-76244-6
 
 This code, provides tools to predict the effect of various Non-Pharmaceutical Interventions (NPI) by estimating the daily number of infected cases of a disease. The data provided is for COVID-19 in Germany for the duration of Feb 18, 2020 to May 7, 2020.
 
@@ -14,7 +14,16 @@ For inqueries please contact Ehsan Gholami (contact: egholami@ucdavis.edu).
 
 If you find this code/data useful for your research, please consider citing the following paper:
 
-https://www.nature.com/articles/s41598-020-76244-6
+    @article{aravindakshan2020preparing,
+      title={Preparing for a future COVID-19 wave: insights and limitations from a data-driven evaluation of non-pharmaceutical interventions in Germany},
+      author={Aravindakshan, Ashwin and Boehnke, J{\"o}rn and Gholami, Ehsan and Nayak, Ashutosh},
+      journal={Scientific reports},
+      volume={10},
+      number={1},
+      pages={1--14},
+      year={2020},
+      publisher={Nature Publishing Group}
+    }
 
 ## Basic Usage
 
